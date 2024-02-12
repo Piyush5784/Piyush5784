@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Piyush</h1>
 <h3 align="center">Converting Designs into a Full Stack Application</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=piyush5784&label=Profile%20views&color=0e75b6&style=flat" alt="piyush5784" /> </p>
 
 <p align="left"> <a href="https://twitter.com/piyush5784" target="blank"><img src="https://img.shields.io/twitter/follow/piyush5784?logo=twitter&style=for-the-badge" alt="piyush5784" /></a> </p>
 
