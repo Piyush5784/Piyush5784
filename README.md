@@ -24,7 +24,65 @@
 
 - 📫 How to reach me **piyushjha5668@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
+  ## Projects
+  
+<table>
+  <tr> 
+     <td width="50%" valign="top">
+      <h3 align="center">Gymer</h3>
+      <br/>
+      <img src="https://github.com/Piyush5784/Piyush5784/assets/105655779/48c74b0b-015e-4bc6-afda-94b6c9886e50" width="100%" alt="Gymer"/>
+      <br/>
+      <div align="center">
+          <a href="https://github.com/Piyush5784/GYMER-version2">Repo</a>
+          <span> | </span>
+          <a href="https://gymer-version2-nbbn.vercel.app/">Live</a>
+      </div>
+      <p align="center">Gymer site with razorpay payment integration.</p>
+    </td>
+     <td width="50%" valign="top">
+      <h3 align="center">Paytm App</h3>
+      <br/>
+      <img src="https://github.com/Piyush5784/Piyush5784/assets/105655779/5e25e348-1f3b-4c06-9d57-c2c8e90ab182" width="100%" alt="Paytm app"/>
+      <br/>
+      <div align="center">
+          <a href="https://github.com/Piyush5784/Paytm-clone">Repo</a>
+          <span> | </span>
+          <a href="https://paytm-clone-lac.vercel.app">Live</a>
+      </div>
+      <p align="center">Paytm app using MERN stack</p>
+    </td>
+    </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Furniro: Furniture selling site </h3>
+      <br/>
+      <img src="https://github.com/Piyush5784/Piyush5784/assets/105655779/d6753f66-8643-4065-9891-795beff6ed57" width="100%" alt="Furniro"/>
+      <br/>
+      <div align="center">
+          <a href="https://github.com/Piyush5784/Furniro">Repo</a>
+          <span> | </span>
+          <a href="https://furniro-sable.vercel.app/">Live</a>
+      </div>
+      <p align="center">Furniture Selling site using ReactJs </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">DigitalCraft Studio </h3>
+      <br/>
+      <img src="weatherly.gif" width="100%" alt="DigitalCraft"/>
+      <br/>
+      <div align="center">
+          <a href="https://github.com/Piyush5784/Business-site">Repo</a>
+          <span> | </span>
+          <a href="https://html-business-website.netlify.app/">Live</a>
+      </div>
+      <p align="center">It Services Selling site using Bootstrap</p>
+  </tr>
+</table>
+
+
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://codepen.io/piyush-kumar-jha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="piyush-kumar-jha" height="30" width="40" /></a>
 <a href="https://twitter.com/piyush5784" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="piyush5784" height="30" width="40" /></a>
