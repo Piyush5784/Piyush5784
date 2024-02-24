@@ -90,7 +90,6 @@
 <a href="https://codesandbox.com/piyushjha5668" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="piyushjha5668" height="30" width="40" /></a>
 <a href="https://instagram.com/piyush_jha_5784" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="piyush_jha_5784" height="30" width="40" /></a>
 <a href="https://dribbble.com/piyush5784" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="piyush5784" height="30" width="40" /></a>
-<a href="https://hashnode.com/piyush5784" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="piyush5784" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/piyush5784" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="piyush5784" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/piyushjr8r5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="piyushjr8r5" height="30" width="40" /></a>
 </p>
