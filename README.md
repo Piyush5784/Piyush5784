@@ -8,13 +8,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👯 I’m looking to collaborate on **MERN stack projects**
-
-- 🤝 I’m looking for help with **Frontend**
-
 - 👨‍💻 All of my projects are available at [https://piyush578-portfolio.netlify.app/](https://piyush578-portfolio.netlify.app/)
-
-- 💬 Ask me about **React, JavaScript**
 
 - 📫 How to reach me **piyushjha5668@gmail.com**
 
