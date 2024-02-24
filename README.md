@@ -1,8 +1,20 @@
 <h1 align="center">Hi 👋, I'm Piyush</h1>
 <h3 align="center">Converting Designs into a Full Stack Application</h3>
+####  <p align="center">Connect with me</p> 
 
 
-<p align="left"> <a href="https://twitter.com/piyush5784" target="blank"><img src="https://img.shields.io/twitter/follow/piyush5784?logo=twitter&style=for-the-badge" alt="piyush5784" /></a> </p>
+<p align="center">
+  <a href="https://twitter.com/Piyush5784" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/piyush-kumar-jha-a29619239/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:piyushjha5668@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
 
 - 🔭 I’m currently working on [React](https://gymer-version2-nbbn.vercel.app/)
 
