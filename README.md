@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Piyush</h1>
 <h3 align="center">Converting Designs into a Full Stack Application</h3>
-####  <p align="center">Connect with me</p> 
+<p align="center">Connect with me</p> 
 
 
 <p align="center">
