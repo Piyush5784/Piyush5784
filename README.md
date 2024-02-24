@@ -77,7 +77,7 @@
           <span> | </span>
           <a href="https://html-business-website.netlify.app/">Live</a>
       </div>
-      <p align="center">It Services Selling site using Bootstrap</p>
+      <p align="center">It Services Selling site using JS</p>
   </tr>
 </table>
 
