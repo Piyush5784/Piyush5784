@@ -35,9 +35,22 @@
 
   ## Projects I have done
   
+
 <table>
-  <tr> 
+<tr> 
      <td width="50%" valign="top">
+      <h3 align="center">Gymer</h3>
+      <br/>
+      <img src="https://github.com/Piyush5784/e-comm-app/assets/105655779/267b462d-14ba-457b-a47a-9920f544ffbb" width="100%" alt="E-com"/>
+      <br/>
+      <div align="center">
+          <a href="https://github.com/Piyush5784/e-comm-app">Repo</a>
+          <span> | </span>
+          <a href="https://e-comm-app-delta.vercel.app">Live</a>
+      </div>
+      <p align="center">E-commerce site using React  + Typescript + Firebase + Razorypay payment integration</p>
+    </td>
+      <td width="50%" valign="top">
       <h3 align="center">Gymer</h3>
       <br/>
       <img src="https://github.com/Piyush5784/Piyush5784/assets/105655779/48c74b0b-015e-4bc6-afda-94b6c9886e50" width="100%" alt="Gymer"/>
@@ -47,9 +60,11 @@
           <span> | </span>
           <a href="https://gymer-version2-nbbn.vercel.app/">Live</a>
       </div>
-      <p align="center">Gymer site with razorpay payment integration.</p>
+      <p align="center">Gymer site using Mern stack and razorpay payment integration.</p>
     </td>
-     <td width="50%" valign="top">
+    </tr>
+  <tr> 
+    <td width="50%" valign="top">
       <h3 align="center">Paytm App</h3>
       <br/>
       <img src="https://github.com/Piyush5784/Piyush5784/assets/105655779/5e25e348-1f3b-4c06-9d57-c2c8e90ab182" width="100%" alt="Paytm app"/>
@@ -61,9 +76,7 @@
       </div>
       <p align="center">Paytm app using MERN stack</p>
     </td>
-    </tr>
-  <tr>
-    <td width="50%" valign="top">
+     <td width="50%" valign="top">
       <h3 align="center">Furniro: Furniture selling site </h3>
       <br/>
       <img src="https://github.com/Piyush5784/Piyush5784/assets/105655779/d6753f66-8643-4065-9891-795beff6ed57" width="100%" alt="Furniro"/>
@@ -75,19 +88,24 @@
       </div>
       <p align="center">Furniture Selling site using ReactJs </p>
     </td>
-    <td width="50%" valign="top">
+    </tr>
+  <tr>
+     <td width="50%" valign="top">
       <h3 align="center">DigitalCraft Studio </h3>
       <br/>
-      <img src="weatherly.gif" width="100%" alt="DigitalCraft"/>
+      <img src="https://github.com/Piyush5784/e-comm-app/assets/105655779/c03b01da-4637-4c85-85ee-29113deccf60" width="100%" alt="DigitalCraft"/>
       <br/>
       <div align="center">
           <a href="https://github.com/Piyush5784/Business-site">Repo</a>
           <span> | </span>
           <a href="https://html-business-website.netlify.app/">Live</a>
       </div>
-      <p align="center">It Services Selling site using Javascript</p>
+      <p align="center">It Services Selling site using bootstrap</p>
+    </td>
+
   </tr>
 </table>
+
 
 
 <h2 align="left">Connect with me:</h2>
