@@ -2,11 +2,6 @@
 
 
 
-![Blue Gradient Header Banner](https://github.com/Piyush5784/GYMER-version2/assets/105655779/a19df849-e2d6-4acc-bb11-0ba0f6e4ecce)
-
-
-
-
 
 
 <p align="center">
