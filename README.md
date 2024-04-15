@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Piyush</h1>
 
-
-
-
-
 <p align="center">
   <a href="https://twitter.com/Piyush5784" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
@@ -17,13 +13,13 @@
 </p>
 
 
-- 🔭 I’m currently working on [React](https://gymer-version2-nbbn.vercel.app/)
+- 🧪 I’m currently learning,improving,debugging,updating with latest technologies
 
-- 🌱 I’m currently learning **MERN Stack**
+- ✔ Ask me about JavaScript and its frameworks
 
-- 👨‍💻 All of my projects are available at [https://piyush578-portfolio.netlify.app/](https://piyush578-portfolio.netlify.app/)
+- 🏹 My basic projects are available at [https://piyush578-portfolio.netlify.app/](https://piyush578-portfolio.netlify.app/)
 
-- 📫 How to reach me **piyushjha5668@gmail.com**
+- 📧 How to reach me **piyushjha5668@gmail.com**
 
 
 <h3 align="center">I convert Designs into a Full Stack Application</h3>
@@ -34,7 +30,7 @@
 <table>
 <tr> 
      <td width="50%" valign="top">
-      <h3 align="center">Gymer</h3>
+      <h3 align="center">Simple Ecommerce Application</h3>
       <br/>
       <img src="https://github.com/Piyush5784/e-comm-app/assets/105655779/267b462d-14ba-457b-a47a-9920f544ffbb" width="100%" alt="E-com"/>
       <br/>
@@ -46,7 +42,7 @@
       <p align="center">E-commerce site using React  + Typescript + Firebase + Razorypay payment integration</p>
     </td>
       <td width="50%" valign="top">
-      <h3 align="center">Gymer</h3>
+      <h3 align="center">Gymer: Gym site with premium plans</h3>
       <br/>
       <img src="https://github.com/Piyush5784/Piyush5784/assets/105655779/48c74b0b-015e-4bc6-afda-94b6c9886e50" width="100%" alt="Gymer"/>
       <br/>
@@ -55,12 +51,12 @@
           <span> | </span>
           <a href="https://gymer-version2-nbbn.vercel.app/">Live</a>
       </div>
-      <p align="center">Gymer site using Mern stack and razorpay payment integration.</p>
+      <p align="center">Gymer site using MERN stack and razorpay payment integration.</p>
     </td>
     </tr>
   <tr> 
     <td width="50%" valign="top">
-      <h3 align="center">Paytm App</h3>
+      <h3 align="center">Simple Wallet App </h3>
       <br/>
       <img src="https://github.com/Piyush5784/Piyush5784/assets/105655779/5e25e348-1f3b-4c06-9d57-c2c8e90ab182" width="100%" alt="Paytm app"/>
       <br/>
@@ -69,7 +65,7 @@
           <span> | </span>
           <a href="https://paytm-clone-lac.vercel.app">Live</a>
       </div>
-      <p align="center">Paytm app using MERN stack</p>
+      <p align="center">Wallet app using MERN stack</p>
     </td>
      <td width="50%" valign="top">
       <h3 align="center">Furniro: Furniture selling site </h3>
@@ -86,7 +82,7 @@
     </tr>
   <tr>
      <td width="50%" valign="top">
-      <h3 align="center">DigitalCraft Studio </h3>
+      <h3 align="center">DigitalCraft Studio:- Business site with different plans </h3>
       <br/>
       <img src="https://github.com/Piyush5784/e-comm-app/assets/105655779/c03b01da-4637-4c85-85ee-29113deccf60" width="100%" alt="DigitalCraft"/>
       <br/>
