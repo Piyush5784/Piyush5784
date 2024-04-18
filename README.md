@@ -22,6 +22,7 @@
 <h3 align="center">I convert Designs into a Full Stack Application</h3>
 
   ## Projects I have done
+
 <table>
 <tr> 
      <td width="50%" valign="top">
@@ -37,7 +38,21 @@
       <p align="center">E-commerce site using React  + Typescript + Firebase + Razorypay payment integration</p>
     </td>
       <td width="50%" valign="top">
-      <h3 align="center">Gymer: Gym site with premium plans</h3>
+      <h3 align="center">Medium: Blogging website </h3>
+      <br/>
+      <img src="https://github.com/Piyush5784/e-comm-app/assets/105655779/711c3ecb-d918-4e8f-aa3b-c7dd70200374" width="100%" alt="Gymer"/>
+      <br/> <br/>
+      <div align="center">
+          <a href="https://github.com/Piyush5784/Medium-blog">Repo</a>
+          <span> | </span>
+          <a href="https://medium-blog-dh6d.vercel.app/">Live</a>
+      </div>
+      <p align="center">Medium Blog site using React + postgresdb </p>
+    </td>
+    </tr>
+  <tr> 
+    <td width="50%" valign="top">
+      <h3 align="center">Gymer</h3>
       <br/>
       <img src="https://github.com/Piyush5784/Piyush5784/assets/105655779/48c74b0b-015e-4bc6-afda-94b6c9886e50" width="100%" alt="Gymer"/>
       <br/>
@@ -48,8 +63,6 @@
       </div>
       <p align="center">Gymer site using MERN stack and razorpay payment integration.</p>
     </td>
-    </tr>
-  <tr> 
     <td width="50%" valign="top">
       <h3 align="center">Simple Wallet App </h3>
       <br/>
@@ -62,7 +75,21 @@
       </div>
       <p align="center">Wallet app using MERN stack</p>
     </td>
+    </tr>
+  <tr>
      <td width="50%" valign="top">
+      <h3 align="center">DigitalCraft Studio:- Business site  </h3>
+      <br/>
+      <img src="https://github.com/Piyush5784/e-comm-app/assets/105655779/c03b01da-4637-4c85-85ee-29113deccf60" width="100%" alt="DigitalCraft"/>
+      <br/>
+      <div align="center">
+          <a href="https://github.com/Piyush5784/Business-site">Repo</a>
+          <span> | </span>
+          <a href="https://html-business-website.netlify.app/">Live</a>
+      </div>
+      <p align="center">It Services Selling site using bootstrap</p>
+    </td>
+  <td width="50%" valign="top">
       <h3 align="center">Furniro: Furniture selling site </h3>
       <br/>
       <img src="https://github.com/Piyush5784/Piyush5784/assets/105655779/d6753f66-8643-4065-9891-795beff6ed57" width="100%" alt="Furniro"/>
@@ -74,23 +101,9 @@
       </div>
       <p align="center">Furniture Selling site using ReactJs </p>
     </td>
-    </tr>
-  <tr>
-     <td width="50%" valign="top">
-      <h3 align="center">DigitalCraft Studio:- Business site with different plans </h3>
-      <br/>
-      <img src="https://github.com/Piyush5784/e-comm-app/assets/105655779/c03b01da-4637-4c85-85ee-29113deccf60" width="100%" alt="DigitalCraft"/>
-      <br/>
-      <div align="center">
-          <a href="https://github.com/Piyush5784/Business-site">Repo</a>
-          <span> | </span>
-          <a href="https://html-business-website.netlify.app/">Live</a>
-      </div>
-      <p align="center">It Services Selling site using bootstrap</p>
-    </td>
-
   </tr>
 </table>
+
 
 <h3 align="left">Languages and frameworks:</h3>
 
