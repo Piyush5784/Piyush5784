@@ -13,7 +13,7 @@
 </p>
 
 
-- 🧪 I’m currently learning,improving,debugging,updating with latest technologies
+- 🧪 I’m currently learning latest technologies
 
 - ✔ Ask me about JavaScript and its frameworks
 
