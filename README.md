@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Piyush</h1>
+<h1 align="center">Hi 👋, I'm Piyush a Full stack developer</h1>
 
 <p align="center">
   <a href="https://twitter.com/Piyush5784" target="_blank">
@@ -11,9 +11,6 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
-
-- 🧪 I’m currently learning the latest technologies
 
 - ✔ Ask me about JavaScript and its frameworks
 
