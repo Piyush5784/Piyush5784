@@ -91,10 +91,16 @@
 
   </tr>
 </table>
+
+<h3 align="left">Languages and frameworks:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,prisma,firebase,tailwind,bootstrap,javascript,typescript,figma,mysql,mongodb,html5,css3,nodejs,git,java,express,hono&perline=13)](https://skillicons.dev)
+
 <details>
 <summary> 
 My Github Stats
 </summary>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=piyush5784&show_icons=true&locale=en&layout=compact" alt="piyush5784" />
 
 ![Piyush Github Stats](https://github-readme-stats.vercel.app/api?username=Piyush5784&show_icons=true&hide_title=true&count_private=true&theme=dark)
 
@@ -113,10 +119,5 @@ My Github Stats
 <a href="https://auth.geeksforgeeks.org/user/piyushjr8r5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="piyushjr8r5" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,prisma,firebase,tailwind,bootstrap,javascript,typescript,figma,mysql,mongodb,html5,css3,nodejs,git,java,express,hono&perline=13)](https://skillicons.dev)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=piyush5784&show_icons=true&locale=en&layout=compact" alt="piyush5784" /></p>
 
 
