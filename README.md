@@ -14,7 +14,7 @@
 
 - ✔ Ask me about JavaScript and its frameworks
 
-- 🏹 My basic projects are available at [https://piyush578-portfolio.netlify.app/](https://piyush578-portfolio.netlify.app/)
+- 🏹 My basic projects are available at [Portfolio](https://piyush-portfolio-two.vercel.app/)
 
 - 📧 How to reach me **piyushjha5668@gmail.com**
 
