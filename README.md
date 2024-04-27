@@ -14,7 +14,7 @@
 
 - ✔ Ask me about JavaScript and its frameworks
 
-- 🏹 My basic projects are available at [Portfolio](piyush.tech)
+- 🏹 My basic projects are available at [Portfolio](https://www.piyush.tech/)
 
 - 📧 How to reach me **piyushjha5668@gmail.com**
 
