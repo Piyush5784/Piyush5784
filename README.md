@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Piyush </h1> ![](https://komarev.com/ghpvc/?username=Piyush5784)
+![](https://komarev.com/ghpvc/?username=Piyush5784) 
+<h1 align="center">Hi 👋, I'm Piyush </h1> 
 
 <p align="center">
   <a href="https://twitter.com/Piyush5784" target="_blank">
