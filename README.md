@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Piyush a Full stack developer</h1>
+<h1 align="center">Hi 👋, I'm Piyush </h1> ![](https://komarev.com/ghpvc/?username=Piyush5784)
 
 <p align="center">
   <a href="https://twitter.com/Piyush5784" target="_blank">
