@@ -15,7 +15,7 @@
 
 - ✔ Ask me about JavaScript and its frameworks
 
-- 🏹 My basic projects are available at  <a href="https://www.piyush.tech/" target="_blank">Portfolio</a>
+- 🏹 My projects are available at my <a href="https://www.piyush.tech/" target="_blank">Portfolio</a>
 
 - 📧 How to reach me **piyushjha5668@gmail.com**
 
