@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm Piyush
 
 ## 📝 About Me
-I am student of Guwahati University, interested in building cool website using Javascript and its frameworks
+I am Student of Guwahati University, interested in building Cool website using Javascript and its frameworks
 
 ## 🛠️ Technical Skills
 
@@ -47,6 +47,6 @@ _Dec 2023 – Jan 2024_ | [Live Demo](https://your-live-demo-link.com)
 
 ## 📫 Let's Connect
 
-- **GitHub:** [github.com/yourusername](https://github.com/piyush5784)
-- **LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+- **GitHub:** [github.com/piyush5784](https://github.com/piyush5784)
+- **LinkedIn:** [linked.in/piyush-kumar-jha-a29619239](https://www.linkedin.com/in/piyush-kumar-jha-a29619239/)
 
