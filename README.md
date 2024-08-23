@@ -13,26 +13,26 @@ I am Student of Guwahati University, interested in building Cool website using J
 
 ## 🚀 Projects
 
-### [Gemini Website](https://github.com/yourusername/gemini-website) | ReactJS, TypeScript, REST API  
-_Apr 2024_ | [Live Demo](https://your-live-demo-link.com)  
+### [Gemini Website](https://github.com/Piyush5784/Gemini-Pro) | ReactJS, TypeScript, REST API  
+_Apr 2024_ | [Live Demo](https://gemini-pro-latest.netlify.app/)  
 - Developed a website using the Gemini API with React and TypeScript.
 - Utilized Recoil for state management to optimize performance.
 - Ensured a smooth user experience and responsive design.
 
-### [E-commerce App](https://github.com/yourusername/ecommerce-app) | ReactJS, TypeScript, Firebase, Razorpay  
-_Feb 2024 – Mar 2024_ | [Live Demo](https://your-live-demo-link.com)  
+### [E-commerce App](https://github.com/Piyush5784/e-comm-app) | ReactJS, TypeScript, Firebase, Razorpay  
+_Feb 2024 – Mar 2024_ | [Live Demo](https://e-comm-app-delta.vercel.app)  
 - Built an online shop with React and TypeScript.
 - Integrated Firebase for data storage and management.
 - Styled the website using Bootstrap for a modern look.
 
-### [Medium Blog](https://github.com/yourusername/medium-blog) | ReactJS, TypeScript, PostgreSQL, Hono, Cloudflare  
-_Mar 2024 – Apr 2024_ | [Live Demo](https://your-live-demo-link.com)  
+### [Medium Blog](https://github.com/Piyush5784/Medium-blog) | ReactJS, TypeScript, PostgreSQL, Hono, Cloudflare  
+_Mar 2024 – Apr 2024_ | [Live Demo](https://medium-blog-dh6d.vercel.app)  
 - Created a Medium-like website for writing and reading articles.
 - Implemented a serverless backend with Cloudflare and Hono.
 - Integrated secure authentication and authorization mechanisms.
 
-### [Gymer](https://github.com/yourusername/gymer) | MongoDB, ExpressJS, ReactJS, NodeJS, Razorpay  
-_Dec 2023 – Jan 2024_ | [Live Demo](https://your-live-demo-link.com)  
+### [Gymer](https://github.com/Piyush5784/GYMER-version2) | MongoDB, ExpressJS, ReactJS, NodeJS, Razorpay  
+_Dec 2023 – Jan 2024_ | [Live Demo](https://gymer-version2-nbbn.vercel.app/)  
 - Developed a gym management website using the MERN stack.
 - Implemented secure authentication using Zod and JWT.
 - Integrated Razorpay for payment processing.
