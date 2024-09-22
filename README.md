@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm Piyush
 
 ## 📝 About Me
-I am Student of Guwahati University, interested in building Cool website using Javascript and its frameworks
+I am Student of computer science from Assam, interested in building Cool website using Javascript and its frameworks
 
 ## 🛠️ Technical Skills
 
