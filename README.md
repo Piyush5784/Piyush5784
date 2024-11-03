@@ -20,6 +20,6 @@ I am Student of computer science from Assam, interested in building Cool website
 
 ## 📫 Let's Connect
 
-- **GitHub:** [github.com/piyush5784](https://github.com/piyush5784)
+- **Twitter:** [https://x.com/Piyush5784](https://x.com/Piyush5784)
 - **LinkedIn:** [linked.in/piyush-kumar-jha-a29619239](https://www.linkedin.com/in/piyush-kumar-jha-a29619239/)
 
