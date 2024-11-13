@@ -6,9 +6,9 @@ I am Student of computer science from Assam, interested in building Cool website
 ## 🛠️ Technical Skills
 
 - **Languages:** Java, C, JavaScript, TypeScript
-- **Frameworks:** React.js, Express.js, Node.js, Material-UI, Bootstrap, Tailwind
+- **Frameworks:** React.js, Next.js, Material-UI, Bootstrap, Tailwind CSS
+- **Dev ops:** Docker, Kubernetes(currently learning)
 - **Database:** PostgreSQL, MongoDB, Firebase
-- **Libraries:** Zod, JWT, Bcrypt
 - **Version Control:** Git
 
 ## 🎓 Certifications
