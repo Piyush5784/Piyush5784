@@ -3,7 +3,7 @@
 ## 📝 About Me
 I am Student of computer science from Assam, interested in building Cool website using Javascript and its frameworks
 
-## 🛠️ Technical Skills
+## 🛠️ Technical Skills   
 
 - **Languages:** Java, C, JavaScript, TypeScript
 - **Frameworks:** React.js, Next.js, Material-UI, Bootstrap, Tailwind CSS
