@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm Piyush
 
 ## 📝 About Me
-I am Student of computer science from Assam, interested in building Cool website using Javascript and its frameworks
+I am a computer science student interested in building a cool website using Javascript and its frameworks. I don't like unoptimized code bases, though.
 
 ## 🛠️ Technical Skills   
 
@@ -11,13 +11,7 @@ I am Student of computer science from Assam, interested in building Cool website
 - **Database:** PostgreSQL, MongoDB, Firebase
 - **Version Control:** Git
 
-## 🎓 Certifications
-
-- **Full Stack Web Development:** 100xdevs
-- **Full Stack Web Development:** Geeks for Geeks
-- **Data Structure and Algorithm:** Codedamn
-- **Full Stack MERN Developer:** Udemy
-
+[![](https://visitcount.itsvg.in/api?id=Piyush5784&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 ## 📫 Let's Connect
 
 - **Twitter:** [https://x.com/Piyush5784](https://x.com/Piyush5784)
