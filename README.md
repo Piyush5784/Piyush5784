@@ -12,6 +12,13 @@ I am a computer science student interested in building a cool website using Java
 - **Version Control:** Git
 
 [![](https://visitcount.itsvg.in/api?id=Piyush5784&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=piyush5784&show_icons=true&theme=radical&hide_border=true" alt="ifeelgarv" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com?user=piyush5784&theme=radical&hide_border=true" alt="ifeelgarv" /></td>
+  </tr>
+</table>
 ## 📫 Let's Connect
 
 - **Twitter:** [https://x.com/Piyush5784](https://x.com/Piyush5784)
