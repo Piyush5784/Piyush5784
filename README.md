@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Piyush
 
-## 📝 About Me
+## 💫 About Me
 I am a computer science student interested in building a cool website using Javascript and its frameworks. I don't like unoptimized code bases, though.
 
 ## 🛠️ Technical Skills   
@@ -11,7 +11,8 @@ I am a computer science student interested in building a cool website using Java
 - **Database:** PostgreSQL, MongoDB, Firebase
 - **Version Control:** Git
 
-[![](https://visitcount.itsvg.in/api?id=Piyush5784&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=piyush5784&label=Profile%20views&color=0e75b6&style=flat" alt="piyush" /> </p>
+
 
 <table>
   <tr>
