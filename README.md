@@ -20,7 +20,8 @@ I am a computer science student interested in building a cool website using Java
     <td><img src="https://github-readme-streak-stats.herokuapp.com?user=piyush5784&theme=radical&hide_border=true" alt="ifeelgarv" /></td>
   </tr>
 </table>
-## 📫 Let's Connect
+
+## :) Let's Connect
 
 - **Twitter:** [https://x.com/Piyush5784](https://x.com/Piyush5784)
 - **LinkedIn:** [linked.in/piyush-kumar-jha-a29619239](https://www.linkedin.com/in/piyush-kumar-jha-a29619239/)
