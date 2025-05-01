@@ -17,7 +17,7 @@ I am a computer science student interested in building a cool website using Java
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=piyush5784&show_icons=true&theme=radical&hide_border=true" alt="Piyush" /></td>
-    <td> <a href="https://github.com/machinelearningprodigy" style="text-decoration: none;">
+    <td> <a href="https://github.com/piyush5784" style="text-decoration: none;">
       <picture>
         <source 
           media="(prefers-color-scheme: dark)" 
