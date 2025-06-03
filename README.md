@@ -16,8 +16,10 @@ I am a computer science student interested in building a cool website using Java
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=piyush5784&show_icons=true&theme=radical&hide_border=true" alt="Piyush" /></td>
-    <td> <a href="https://github.com/piyush5784" style="text-decoration: none;">
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=piyush5784&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+    </td>
+    <td width="50%">
       <picture>
         <source 
           media="(prefers-color-scheme: dark)" 
@@ -31,9 +33,17 @@ I am a computer science student interested in building a cool website using Java
           src="https://github-readme-streak-stats-ranit.vercel.app?user=piyush5784&theme=radical&hide_border=true&card_width=495" 
           alt="Streak Stats"
         />
-      </picture></td>
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=piyush5784&bg_color=0d1117&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" alt="Activity Graph" />
+    </td>
   </tr>
 </table>
+
+
 
 ## :) Let's Connect
 
