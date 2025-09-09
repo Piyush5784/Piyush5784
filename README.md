@@ -5,7 +5,7 @@ I am a computer science student interested in building a cool website using Java
 
 ## 🛠️ Technical Skills   
 
-- **Languages:** Java, C, JavaScript, TypeScript
+- **Languages:** Java, JavaScript, TypeScript
 - **Frameworks:** React.js, Next.js, Material-UI, Bootstrap, Tailwind CSS
 - **Dev ops:** Docker, Kubernetes(currently learning)
 - **Database:** PostgreSQL, MongoDB, Firebase
