@@ -1,7 +1,8 @@
 # 👋 Hi there! I'm Piyush 
 
 ## 💫 About Me 
-I am a computer science student interested in building a cool website using Javascript and its frameworks. I don't like unoptimized code bases, though.
+I am a computer science student interested in building a cool website using Javascript and its frameworks. 
+
 
 ## 🛠️ Technical Skills   
 
