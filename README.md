@@ -5,6 +5,7 @@
 <h3>Piyush Jha</h3>
 <p>Software Engineer · Assam, India</p>
 
+<img src="https://komarev.com/ghpvc/?username=piyush5784&label=Profile%20views&color=0e75b6&style=flat" alt="piyush" />
 </div>
 
 <table>
@@ -44,4 +45,3 @@
 ---
 
 
-<img src="https://komarev.com/ghpvc/?username=piyush5784&label=Profile%20views&color=0e75b6&style=flat" alt="piyush" />
