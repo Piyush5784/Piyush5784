@@ -1,7 +1,5 @@
 <div align="left">
 
-<img src="https://ui-avatars.com/api/?name=PJ&background=EAF3DE&color=3B6D11&size=52&font-size=0.4&bold=true" width="52" height="52" />
-
 <h3>Piyush Jha</h3>
 <p>Software Engineer · Assam, India</p>
 
