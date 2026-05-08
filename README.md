@@ -7,14 +7,6 @@
 
 </div>
 
----
-
-<blockquote>
-Building things that actually work — web apps, AI agents, and whatever problem needs solving next.
-</blockquote>
-
----
-
 <table>
   <tr>
     <td align="center" width="160" style="background:#f6f8fa; border-radius:8px; padding:12px;">
