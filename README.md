@@ -18,16 +18,16 @@ Building things that actually work — web apps, AI agents, and whatever problem
 <table>
   <tr>
     <td align="center" width="160" style="background:#f6f8fa; border-radius:8px; padding:12px;">
-      <sub><b>Role</b></sub><br/>Software Engineer
+      <b>Role</b><br/>Software Engineer
     </td>
     <td align="center" width="160" style="background:#f6f8fa; border-radius:8px; padding:12px;">
-      <sub><b>Currently at</b></sub><br/>Coyax
+      <b>Currently at</b><br/>Coyax
     </td>
     <td align="center" width="160" style="background:#f6f8fa; border-radius:8px; padding:12px;">
-      <sub><b>Stack</b></sub><br/>Next.js · React Native
+      <b>Stack</b><br/>Next.js · React Native
     </td>
     <td align="center" width="160" style="background:#f6f8fa; border-radius:8px; padding:12px;">
-      <sub><b>Exploring</b></sub><br/>AI Agents · Web3
+      <b>Exploring</b><br/>AI Agents · Web3
     </td>
   </tr>
 </table>
