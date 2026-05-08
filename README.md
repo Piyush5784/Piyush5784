@@ -1,11 +1,15 @@
 <div align="left">
 
-<h3>Piyush Jha</h3>
-<p>Software Engineer · Assam, India</p>
+<img src="https://ui-avatars.com/api/?name=PJ&background=EAF3DE&color=3B6D11&size=52&font-size=0.4&bold=true" width="52" height="52" />
 
-<div style="padding-bottom:12px;"  ><img src="https://komarev.com/ghpvc/?username=piyush5784&label=Profile%20views&color=0e75b6&style=flat" alt="piyush" /></div>
+<h3>Piyush Jha</h3>
+<p>Software Engineer · Assam, India</p> 
+<img src="https://komarev.com/ghpvc/?username=piyush5784&label=Profile%20views&color=0e75b6&style=flat" alt="piyush" />
 
 </div>
+
+
+---
 
 <table>
   <tr>
@@ -24,7 +28,7 @@
   </tr>
 </table>
 
-
+---
 
 **WHAT I'M WORKING ON**
 
@@ -33,13 +37,25 @@
 ▸ Exploring **Web3** — protocols, tooling, and real-world use cases  
 ▸ Love talking about **AI agent design**, limitations, and what the future looks like  
 
+---
 
 **LINKS**
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-100xpiyush.vercel.app-4a9e4a?style=flat)](https://100xpiyush.vercel.app)
-
 [![GitHub Personal](https://img.shields.io/badge/GitHub-Personal-181717?style=flat&logo=github)](https://github.com/Piyush5784)
-
 [![GitHub Work](https://img.shields.io/badge/GitHub-Work_(private)-555?style=flat&logo=github)](https://github.com/jha-coyax)
 
+---
+
+**GITHUB ACTIVITY**
+
+
+
+![Personal Streak](https://streak-stats.demolab.com?user=Piyush5784&theme=github-dark&hide_border=true&background=0d1117&ring=39d353&fire=58a6ff&currStreakLabel=c9d1d9)
+
+---
+
+<sub><b>Work — @jha-coyax</b></sub>
+
+![Work Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=jha-coyax&bg_color=0d1117&color=58a6ff&line=39d353&point=39d353&area=true&hide_border=true)
 
