@@ -26,7 +26,7 @@
   </tr>
 </table>
 
----
+
 
 **WHAT I'M WORKING ON**
 
@@ -35,14 +35,13 @@
 ▸ Exploring **Web3** — protocols, tooling, and real-world use cases  
 ▸ Love talking about **AI agent design**, limitations, and what the future looks like  
 
----
 
 **LINKS**
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-100xpiyush.vercel.app-4a9e4a?style=flat)](https://100xpiyush.vercel.app)
-[![GitHub Personal](https://img.shields.io/badge/GitHub-Personal-181717?style=flat&logo=github)](https://github.com/Piyush5784)
-[![GitHub Work](https://img.shields.io/badge/GitHub-Work_(private)-555?style=flat&logo=github)](https://github.com/jha-coyax)
 
----
+[![GitHub Personal](https://img.shields.io/badge/GitHub-Personal-181717?style=flat&logo=github)](https://github.com/Piyush5784)
+
+[![GitHub Work](https://img.shields.io/badge/GitHub-Work_(private)-555?style=flat&logo=github)](https://github.com/jha-coyax)
 
 
