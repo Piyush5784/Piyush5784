@@ -43,15 +43,6 @@
 [![GitHub Personal](https://img.shields.io/badge/GitHub-Personal-181717?style=flat&logo=github)](https://github.com/Piyush5784)
 [![GitHub Work](https://img.shields.io/badge/GitHub-Work_(private)-555?style=flat&logo=github)](https://github.com/jha-coyax)
 
----
-
-**GITHUB ACTIVITY**
-
-
-
-![Personal Streak](https://streak-stats.demolab.com?user=Piyush5784&theme=github-dark&hide_border=true&background=0d1117&ring=39d353&fire=58a6ff&currStreakLabel=c9d1d9)
-
----
 
 <sub><b>Work — @jha-coyax</b></sub>
 
