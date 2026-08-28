@@ -43,8 +43,3 @@
 [![GitHub Personal](https://img.shields.io/badge/GitHub-Personal-181717?style=flat&logo=github)](https://github.com/Piyush5784)
 [![GitHub Work](https://img.shields.io/badge/GitHub-Work_(private)-555?style=flat&logo=github)](https://github.com/jha-coyax)
 
-
-<sub><b>Work — @jha-coyax</b></sub>
-
-![Work Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Piyush5784&bg_color=0d1117&color=58a6ff&line=39d353&point=39d353&area=true&hide_border=true)
-
